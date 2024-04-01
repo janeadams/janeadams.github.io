@@ -2,16 +2,16 @@ email:
   id: 'janelydiaadams@gmail.com'
   href: 'mailto:'
   title: 'Email'
-  fa-icon: 'fa-envelope-square'
+  fa-icon: 'fa-envelope'
 
 mastodon:
   id: '@janeadams'
   href: 'https://vis.social/'
   title: 'Mastodon'
-  fa-icon: 'fa-mastodon-square'
+  fa-icon: 'fa-mastodon'
 
 github:
   id: 'janeadams'
   href: 'https://github.com/'
   title: 'GitHub'
-  fa-icon: 'fa-github-square'
+  fa-icon: 'fa-github'

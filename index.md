@@ -3,24 +3,25 @@ layout: default
 title: Home
 nav_order: 1
 has_children: true
+has_toc: false
 ---
 
 # Jane Adams
 
-Hey, thanks for visiting! This website is searchable. Please [reach out](@mailto:janelydiaadams@gmail.com) if you think we could make something cool together.
+Hey, thanks for visiting! Please [reach out](@mailto:janelydiaadams@gmail.com) if you think we could make something cool together.
 
 ## CURRENT POSITIONS
 
-**Doctoral Student (Ph.D.), Computer Science**  | Fall 2021 – Present
+**Doctoral Student (Ph.D.), Computer Science**  | Fall 2021 – Present  
 Data Visualization Lab @ Northeastern University, Boston, MA
 Working with Agilent Technologies on LC/MS dashboards
 
-**Graduate Student, Certificate in Bioinformatics**  | January 2024 – Present
+**Graduate Student, Certificate in Bioinformatics**  | January 2024 – Present  
 Northeastern University College of Science, Boston, MA
 
 ## UPCOMING
 
-**Graduate Research Intern: AI + Visualization** | Summer 2024
+**Graduate Research Intern: AI + Visualization** | Summer 2024  
 Ozette Technologies, Seattle WA/Remote
 
 ## RIGHT NOW
