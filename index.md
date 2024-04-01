@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Home
-
+nav_order: 1
+has_children: true
 ---
 
 # Jane Adams
@@ -40,11 +41,11 @@ In my personal time, I build art robots, interactive mixed-media installations, 
 
 You can find me on Mastodon at janeadams@vis.social
 
-{% include_relative education.md %}
-{% include_relative memberships.md %}
-{% include_relative employment.md %}
-{% include_relative research.md %}
-{% include_relative volunteer.md %}
-{% include_relative speaking.md %}
-{% include_relative exhibitions.md %}
-{% include_relative misc.md %}
+{% include_relative experience/education.md %}
+{% include_relative experience/memberships.md %}
+{% include_relative experience/employment.md %}
+{% include_relative experience/research.md %}
+{% include_relative experience/volunteer.md %}
+{% include_relative experience/speaking.md %}
+{% include_relative experience/exhibitions.md %}
+{% include_relative experience/misc.md %}

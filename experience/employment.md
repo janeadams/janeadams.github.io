@@ -1,3 +1,11 @@
+---
+layout: default
+title: Employment
+nav_order: 2
+has_children: false
+parent: Home
+---
+
 ## EMPLOYMENT
 * denotes teaching experience
 

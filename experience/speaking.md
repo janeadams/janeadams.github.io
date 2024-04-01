@@ -1,3 +1,11 @@
+---
+layout: default
+title: Talks
+nav_order: 2
+has_children: false
+parent: Home
+---
+
 ## PUBLIC SPEAKING
 * denotes teaching experience
 

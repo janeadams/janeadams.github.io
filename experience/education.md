@@ -1,3 +1,11 @@
+---
+layout: default
+title: Education
+nav_order: 2
+has_children: false
+parent: Home
+---
+
 ## EDUCATION
 
 I’ve completed all the coursework for my MS in Computer Science (Northeastern’s “MS along the way” for PhD students), and I’m in the 3rd year of my PhD in Computer Science, with a focus in Data Visualization. I hold a MFA in Emergent Media, and a BFA in Graphic Design and Digital Media. My MFA work included curation of data-driven art exhibits; building computer-aided interactive, illuminated, and hydroponic sculptural works; and writing about the evolving relationship between art and science.

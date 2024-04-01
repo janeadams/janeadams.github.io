@@ -1,3 +1,11 @@
+---
+layout: default
+title: Professional Memberships
+nav_order: 2
+has_children: false
+parent: Home
+---
+
 ## PROFESSIONAL MEMBERSHIPS
 
 U.S. Research Software Engineer Association (US-RSE)

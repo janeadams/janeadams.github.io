@@ -1,3 +1,11 @@
+---
+layout: default
+title: Art Exhibitions
+nav_order: 2
+has_children: false
+parent: Home
+---
+
 ## ART EXHIBITIONS
 ⇞ indicates contribution to securing grant funding
 

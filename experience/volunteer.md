@@ -1,3 +1,11 @@
+---
+layout: default
+title: Volunteer Work
+nav_order: 2
+has_children: false
+parent: Home
+---
+
 ## VOLUNTEER WORK
 
 __SciPy 2024 Program Committee__  |  2024
