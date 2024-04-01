@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Home
+
 ---
 
 # Jane Adams
