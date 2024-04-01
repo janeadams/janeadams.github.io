@@ -5,8 +5,7 @@ nav_order: 2
 has_children: false
 parent: Home
 ---
-
-## PROFESSIONAL MEMBERSHIPS
+# Professional Memberships
 
 U.S. Research Software Engineer Association (US-RSE)
 American Association for the Advancement of Science (AAAS)

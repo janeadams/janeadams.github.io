@@ -5,9 +5,11 @@ nav_order: 2
 has_children: false
 parent: Home
 ---
+# Art Exhibitions
+_⇞ indicates contribution to securing grant funding_
 
-## ART EXHIBITIONS
-⇞ indicates contribution to securing grant funding
+__Exhibiting Artist: “Latent Prism” Sculpture and “Eco-Mending”__ | October 2023
+VISAP, the Arts Program at IEEE VIS 2023, Melbourne, Australia
 
 __Exhibiting Artist: “When All Dreams Come True“ Group Show__  | May – June 2023
 Provocation Ideas Festival, Toronto, ON (Canada)

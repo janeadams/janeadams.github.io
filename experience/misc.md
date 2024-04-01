@@ -5,15 +5,14 @@ nav_order: 3
 has_children: false
 parent: Home
 ---
-
-## MENTORSHIP
+# Mentorship & Grants
 
 I’ve had the great privilege of mentoring a number of undergraduate students over the years:
 
-Juna Kim, Northeastern University — Cerebrovasculature Segmentation and Morphology
-Addie Addie, Smith College — Surveying A.I. Artists and Developers
-Evan Koppers, Lucia Hughes, Harper Bennett, and Leah Peterson — Data Visualization in XR
-Henry Foley, Robert Christianson, and Nathan Boisvert — Art and A.I. for Immersive Exhibits
+- Juna Kim, Northeastern University — Cerebrovasculature Segmentation and Morphology
+- Addie Addie, Smith College — Surveying A.I. Artists and Developers
+- Evan Koppers, Lucia Hughes, Harper Bennett, and Leah Peterson — Data Visualization in XR
+- Henry Foley, Robert Christianson, and Nathan Boisvert — Art and A.I. for Immersive Exhibits
 
 ## GRANTS & SCHOLARSHIPS
 

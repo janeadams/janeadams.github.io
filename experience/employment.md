@@ -5,9 +5,11 @@ nav_order: 2
 has_children: false
 parent: Home
 ---
+# Employment
+_* denotes teaching experience_
 
-## EMPLOYMENT
-* denotes teaching experience
+__Graduate Researcher: LC/MS Visualization__ | September 2023 – Present
+Partnership with Agilent Technologies via Northeastern University
 
 __Research Fellow: Civic visualization of urban intelligence__ | September – December 2023
 The Edgelands Institute

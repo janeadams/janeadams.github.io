@@ -6,7 +6,7 @@ has_children: false
 parent: Home
 ---
 
-## RESEARCH
+# Research
 
 __“Allotaxonometry and rank-turbulence divergence: A universal instrument for comparing complex systems”__. Peter Sheridan Dodds, Joshua R Minot, Michael V Arnold, Thayer Alshaabi, Jane Lydia Adams, David Rushing Dewhurst, Tyler J Gray, Morgan R Frank, Andrew J Reagan, Christopher M. Danforth. EPJ Data Science, 19 September 2023.
 

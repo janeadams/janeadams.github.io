@@ -5,9 +5,8 @@ nav_order: 2
 has_children: false
 parent: Home
 ---
-
-## PUBLIC SPEAKING
-* denotes teaching experience
+# Public Speaking
+_* denotes teaching experience_
 
 __“Data Visualization for Systems Genetics”__ (Best talk: 3rd place winner!) | 14 November 2023
 Boston Computational Biology & Bioinformatics Meetup, Boston, MA
