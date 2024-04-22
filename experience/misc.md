@@ -18,15 +18,23 @@ I’ve had the great privilege of mentoring a number of undergraduate students o
 ## GRANTS & SCHOLARSHIPS
 
 __Champlain College__
+
 Brouillette Scholarship: $5,600  
 Excellence Scholarship: $60,000  
 Achievement Scholarship: $14,400  
 
+
 __Northeastern University__
+
 PhD Network Travel Funds: $500  
-2-year Khoury College of Computer Sciences Fellowship  
+Khoury College of Computer Sciences Fellowship (2-year, PhD stipend)
+The Jackson Laboratory Research Grant (1-year, PhD stipend)
 Agilent Technologies Research Grant (1-year, PhD stipend)  
 
+
 __Other__
+
 Highlight BTV 2019 Illumination Collective arts grant: $10,000  
 2023 Gordon Research Conference on Visualization in Science & Education: $950
+Contributed to efforts to secure a $5m gift from MassMutual for the University of Vermont Complex Systems Center
+Aided Northeastern University computer science faculty in developing figures for 8 applications to the NSF CAREER grant
