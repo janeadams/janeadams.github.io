@@ -30,6 +30,7 @@ PhD Network Travel Funds: $500
 Khoury College of Computer Sciences Fellowship (2-year, PhD stipend)
 The Jackson Laboratory Research Grant (1-year, PhD stipend)
 Agilent Technologies Research Grant (1-year, PhD stipend)  
+Khoury College of Computer Science PhD Service award: $1,000
 
 
 __Other__
