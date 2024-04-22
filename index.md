@@ -8,7 +8,7 @@ has_toc: false
 
 # Jane Adams
 
-Hey, thanks for visiting! Please [reach out](@mailto:janelydiaadams@gmail.com) if you think we could make something cool together.
+Hey, thanks for visiting! Please [reach out](@mailto:janelydiaadams@gmail.com) if you think we could make something cool together. I am available for consulting and contract work up to 5 hours per week, and give priority to longer contracts. If you are a non-profit, ask me about my discounted rate :)
 
 ## CURRENT POSITIONS
 
@@ -21,7 +21,7 @@ Northeastern University College of Science, Boston, MA
 
 ## UPCOMING
 
-**Graduate Research Intern: AI + Visualization** | Summer 2024  
+**Graduate Research Intern: Applications of Language Models for Genomics Visualization** | Summer 2024  
 [Ozette Technologies](https://www.ozette.com/), Seattle WA/Remote
 
 ## RIGHT NOW
