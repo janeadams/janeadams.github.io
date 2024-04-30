@@ -8,6 +8,9 @@ parent: Home
 ---
 # Volunteer Work
 
+__VISAP 2024 Program Committee__  |  2024  
+Visualization Arts Program at IEEE VIS
+
 __CSCW 2024 Program Committee__  |  2024  
 Conference on Computer-Suppported Cooperative Work
 
