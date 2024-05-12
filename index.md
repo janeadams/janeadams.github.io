@@ -35,4 +35,4 @@ I’ve been a speaker and panelist at [NVIDIA GTC](https://www.nvidia.com/en-us/
 ## IRL
 In my personal time, I enjoy curating and making art. I love rock climbing, taking care of plants, and hiking. My favorite video games are Minecraft, Civilization VI, Cities Skylines, and Anno 1800.
 
-You can find me on Mastodon at [janeadams@vis.social](https://vis.social/@janeadams).
+You can find me on Mastodon at [janeadams@datavis.social](https://datavis.social/@janeadams).
