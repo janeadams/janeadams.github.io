@@ -5,13 +5,6 @@ email:
   fa-icon: 'fa-envelope'
   rel: ''
 
-mastodon:
-  id: '@janeadams'
-  href: 'https://vis.social/'
-  title: 'Mastodon'
-  fa-icon: 'fa-mastodon'
-  rel: 'me'
-
 github:
   id: 'janeadams'
   href: 'https://github.com/'
