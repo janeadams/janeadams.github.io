@@ -9,6 +9,9 @@ parent: Home
 # Public Speaking
 _* denotes teaching experience_
 
+__“Conversational Interfaces for Visualization Dashboard Exploration”__ (Internal) | 15 August 2024  
+Ozette Technologies, Seattle WA / Remote
+
 __“Data Visualization for Systems Genetics”__ (Best talk: 3rd place winner!) | 14 November 2023  
 Boston Computational Biology & Bioinformatics Meetup, Boston, MA
 
