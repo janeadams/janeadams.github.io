@@ -8,7 +8,7 @@ parent: Home
 ---
 # Education
 
-I’ve completed all the coursework for my MS in Computer Science (Northeastern’s “MS along the way” for PhD students), and I’m wrapping up the 3rd year of my PhD in Computer Science, with a focus in Data Visualization. I hold a MFA in Emergent Media, and a BFA in Graphic Design and Digital Media. My MFA work included curation of data-driven art exhibits; building computer-aided interactive, illuminated, and hydroponic sculptural works; and writing about the evolving relationship between art and science.
+I’ve completed all the coursework for my MS in Computer Science (Northeastern’s “MS along the way” for PhD students), and I’m in my 4th year of my PhD in Computer Science, with a focus in Data Visualization, planning to graduate in 2026, also with a graduate certificate in Bioinformatics from Northeastern's College of Science. I hold a MFA in Emergent Media, and a BFA in Graphic Design and Digital Media. My MFA work included curation of data-driven art exhibits; building computer-aided interactive, illuminated, and hydroponic sculptural works; and writing about the evolving relationship between art and science.
 
 [**Graduate Certificate in Bioinformatics**](https://catalog.northeastern.edu/graduate/science/biology/bioinformatics-graduate-certificate/)  | January 2024 – Present  
 Northeastern University College of Science, Boston, MA
