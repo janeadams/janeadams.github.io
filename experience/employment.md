@@ -9,7 +9,10 @@ parent: Home
 # Employment
 _* denotes teaching experience_
 
-__Graduate Researcher: LC/MS Visualization__ | September 2023 – Present  
+__Graduate Research Intern__ | May 2024 – Present  
+[Ozette Technologies](https://www.ozette.com/), Seattle WA / Remote
+
+__Graduate Researcher: LC/MS Visualization__ | September 2023 – April 2024  
 Partnership with [Agilent Technologies](https://en.wikipedia.org/wiki/Agilent_Technologies) via Northeastern University
 
 __Research Fellow: Civic visualization of urban intelligence__ | September – December 2023  
