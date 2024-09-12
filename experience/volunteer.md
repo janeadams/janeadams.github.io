@@ -8,8 +8,8 @@ parent: Home
 ---
 # Volunteer Work
 
-__Information+ Conference 2025 Student Chair__  |  2025  
-Information Plus Conference
+__Information+ Conference Student Chair__  |  2025  
+Information Plus Conference 2025 (Boston, MA - MIT & Northeastern U.)
 
 __VISAP 2024 Program Committee__  |  2024  
 Visualization Arts Program at IEEE VIS
