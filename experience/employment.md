@@ -9,7 +9,10 @@ parent: Home
 # Employment
 _* denotes teaching experience_
 
-__Graduate Research Intern__ | May 2024 – Present  
+__Data Science Co-Op__ | January 2025 - Present 
+[The Jackson Laboratory (JAX)](https://en.wikipedia.org/wiki/Jackson_Laboratory), Bar Harbor, ME / Remote
+
+__Graduate Research Intern__ | May - December 2024  
 [Ozette Technologies](https://www.ozette.com/), Seattle WA / Remote
 
 __Graduate Researcher: LC/MS Visualization__ | September 2023 – April 2024  
