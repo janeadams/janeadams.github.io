@@ -9,7 +9,7 @@ parent: Home
 # Employment
 _* denotes teaching experience_
 
-__Data Science Co-Op__ | January 2025 - Present 
+__Data Science Co-Op__ | January 2025 - Present  
 [The Jackson Laboratory (JAX)](https://en.wikipedia.org/wiki/Jackson_Laboratory), Bar Harbor, ME / Remote
 
 __Graduate Research Intern__ | May - December 2024  
@@ -27,7 +27,7 @@ __PhD Intern__ | May – August 2023
 __[NSF CAREER](https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career) Design Consultant__ | May – July 2023  
 Khoury College of Computer Sciences @ Northeastern University, Boston MA
 
-__Graduate Researcher__ | September 2021 – Present 
+__Graduate Researcher__ | September 2021 – Present  
 [Northeastern University: Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/), Boston, Massachusetts
 
 __Visiting Student__ | June 2022 – May 2023  
