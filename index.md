@@ -16,9 +16,6 @@ Hey, thanks for visiting! I research and engineer software systems for visual an
 **Graduate Research Co-op: Data Science for Systems Genetics** | January 2025 - Present  
 [The Jackson Laboratory](https://www.addiction-neurogenetics.org/), Portland ME / Remote
 
-**Research Collaborator: Data Visualization of Open-Ended Evolution in Artificial Life**  |  July 2024 - February 2025
-Sony Computer Science Laboratories (Sony CSL), Tokyo, Japan
-
 **Doctoral Student (Ph.D.), Computer Science**  | Fall 2021 – Present  
 [Data Visualization Lab](https://vis.khoury.northeastern.edu/) @ Northeastern University, Boston, MA
 
