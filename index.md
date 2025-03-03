@@ -22,6 +22,11 @@ Hey, thanks for visiting! I research and engineer software systems for visual an
 **[Graduate Certificate in Bioinformatics](https://catalog.northeastern.edu/graduate/science/biology/bioinformatics-graduate-certificate/)**  | January 2024 – Present  
 Northeastern University College of Science, Boston, MA
 
+## UPCOMING
+
+**AI/ML Fellow** | June - August 2025  
+[Flagship Pioneering](https://www.flagshippioneering.com/join/fellows), Cambridge MA
+
 ## RESEARCH
 
 I’m presently a 4th-year Computer Science PhD student in the [Data Visualization Lab at Northeastern University’s Khoury College](https://vis.khoury.northeastern.edu/), under the advisement of [Dr. Michelle Borkin](https://scholar.google.com/citations?user=m9F7mIgAAAAJ&hl=en), and also completing coursework in the College of Science for a graduate certificate in Bioinformatics. This past year, I worked on developing longitudinal lab analysis tools for liquid chromatography and mass spectrometry ([LC/MS](https://en.wikipedia.org/wiki/Liquid_chromatography%E2%80%93mass_spectrometry)) with [Agilent Technologies](https://en.wikipedia.org/wiki/Agilent_Technologies), before joining [Ozette Technologies](https://www.ozette.com/) as a graduate research intern for 8 months, where we developed a multi-agent large language model architecture for applying conversational interfaces to visual analytics dashboards. This spring, I have re-joined the Jackson Laboratory for a graduate research co-op in Data Science with a focus on architecting visual informatics software for systems genetics research.
