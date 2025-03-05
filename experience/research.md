@@ -8,7 +8,7 @@ parent: Home
 ---
 
 # Research
-__“Gridded Visualization of Statistical Trees for High-Dimensional Multipartite Data in Systems Genetics”__. Jane Lydia Adams, Robyn L. Ball, Jason A. Bubier, Elissa J. Chesler, Melanie Tory, and Michelle A. Borkin. In review, 2025.
+__[“Gridded Visualization of Statistical Trees for High-Dimensional Multipartite Data in Systems Genetics”](10.17605/OSF.IO/9EMN5)__. Jane Lydia Adams, Robyn L. Ball, Jason A. Bubier, Elissa J. Chesler, Melanie Tory, and Michelle A. Borkin. In review, 2025.
 
 __[“Allotaxonometry and rank-turbulence divergence: A universal instrument for comparing complex systems”](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00400-x)__. Peter Sheridan Dodds, Joshua R Minot, Michael V Arnold, Thayer Alshaabi, Jane Lydia Adams, David Rushing Dewhurst, Tyler J Gray, Morgan R Frank, Andrew J Reagan, Christopher M. Danforth. EPJ Data Science, 19 September 2023. [10.1140/epjds/s13688-023-00400-x](https://doi.org/10.1140/epjds/s13688-023-00400-x).
 
