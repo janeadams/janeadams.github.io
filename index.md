@@ -8,7 +8,12 @@ has_toc: false
 
 # Jane Adams
 
-Hey, thanks for visiting! I research and engineer software systems for visual analytics of high-dimensional data in life sciences. I'm planning to graduate from my PhD in Computer Science program in May of 2026, when I will continue my career in industry research.
+Hey, thanks for visiting! I research and engineer software systems for visual analytics of high-dimensional data in life sciences. I'm planning to graduate from my PhD in Computer Science program in May of 2026, when I will continue my career in industry research. I am a dual citizen of the US and EU, seeking employment in the EU in 2026.
+
+## UPCOMING
+
+**Machine Learning Fellow** | June - August 2025  
+[Flagship Pioneering](https://www.flagshippioneering.com/join/fellows), Cambridge MA
 
 
 ## CURRENT POSITIONS
@@ -21,11 +26,6 @@ Hey, thanks for visiting! I research and engineer software systems for visual an
 
 **[Graduate Certificate in Bioinformatics](https://catalog.northeastern.edu/graduate/science/biology/bioinformatics-graduate-certificate/)**  | January 2024 – Present  
 Northeastern University College of Science, Boston, MA
-
-## UPCOMING
-
-**AI/ML Fellow** | June - August 2025  
-[Flagship Pioneering](https://www.flagshippioneering.com/join/fellows), Cambridge MA
 
 ## RESEARCH
 
