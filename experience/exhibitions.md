@@ -9,6 +9,9 @@ parent: Home
 # Art Exhibitions
 _⇞ indicates contribution to securing grant funding_
 
+**Artist in Residence** | April 9-10, 2025  
+[Worcester Polytechnic Institute (WPI) Global Lab](https://global-lab.wpi.edu/artists-in-residence/), Worcester MA
+
 __Exhibiting Artist: “Latent Prism” Sculpture and “Eco-Mending”__ | October 2023  
 [VISAP, the Arts Program at IEEE VIS 2023](https://visap.net/2023/), Melbourne, Australia
 
