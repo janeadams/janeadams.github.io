@@ -11,6 +11,8 @@ has_toc: false
 Hey, thanks for visiting! I research and engineer software systems for visual analytics of high-dimensional data in life sciences. I'm planning to graduate from my PhD in Computer Science program in May of 2026, when I will continue my career in industry research. I am a dual citizen of the US and EU, seeking employment in the EU in 2026.
 
 ## UPCOMING
+**Artist in Residence** | April 9-10, 2025  
+[Worcester Polytechnic Institute (WPI) Global Lab](https://global-lab.wpi.edu/artists-in-residence/), Worcester MA
 
 **Machine Learning Fellow** | June - August 2025  
 [Flagship Pioneering](https://www.flagshippioneering.com/join/fellows), Cambridge MA
