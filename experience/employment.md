@@ -9,10 +9,10 @@ parent: Home
 # Employment
 _* denotes teaching experience_
 
-__Data Science Co-Op__ | January - April 2025 
+__Data Science Co-Op__ | January - April 2025  
 [The Jackson Laboratory (JAX)](https://en.wikipedia.org/wiki/Jackson_Laboratory), Bar Harbor, ME / Remote
 
-__Research Collaborator: Data Visualization of Open-Ended Evolution in Artificial Life__  |  July 2024 - February 2025
+__Research Collaborator: Data Visualization of Open-Ended Evolution in Artificial Life__  |  July 2024 - February 2025  
 Sony Computer Science Laboratories (Sony CSL), Tokyo, Japan
 
 __Graduate Research Intern__ | May - December 2024  
