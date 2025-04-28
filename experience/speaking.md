@@ -9,6 +9,22 @@ parent: Home
 # Public Speaking
 _* denotes teaching experience_
 
+__Presenting First Author (Best Paper Honorable Mention):  
+"Gridded Visualization of Statistical Trees for High-Dimensional Multipartite Data in Systems Genetics"__ | 2 June 2025  
+EuroVis Conference, Luxembourg City LU
+
+__Guest Speaker: CSC/SDS293 - Machine Learning__ | 29 April 2025  
+Smith College, Northampton MA / Remote
+
+__Guest Speaker: COSI 125A - Human-Computer Interaction__ | 28 April 2025  
+Brandeis University, Waltham MA / Remote
+
+__“Exploring the Edges of AI Art Ethics”__ | 10 April 2025  
+The Global Lab at Worcester Polytechnic Institute (WPI), Worcester MA
+
+__“Perturbed Hypotheticals: Exploring Design Language for AI Art Ethics”__ | 10 April 2025  
+Worcester Polytechnic Institute (WPI), Worcester MA
+
 __“Conversational Interfaces for Visualization Dashboard Exploration”__ (Internal) | 15 August 2024  
 Ozette Technologies, Seattle WA / Remote
 
@@ -18,10 +34,12 @@ Boston Computational Biology & Bioinformatics Meetup, Boston, MA
 __alt.VIS Workshop Session Chair / Steering Committee__ | October 2023  
 IEEE VIS Conference, Melbourne, Australia
 
-__Presenting First Author: “AR for Scholarly Publication of 3D Visualizations in Astronomy”__ | October 2023  
+__Presenting First Author:  
+“AR for Scholarly Publication of 3D Visualizations in Astronomy”__ | October 2023  
 IEEE VIS Conference, Melbourne, Australia
 
-__Presenting First Author: “DevOps for DataVis: A Survey and Provocation for Teaching Deployment of Data Visualizations”__ | October 2023  
+__Presenting First Author:  
+“DevOps for DataVis: A Survey and Provocation for Teaching Deployment of Data Visualizations”__ | October 2023  
 IEEE VIS Conference, Melbourne, Australia
 
 __Exhibiting Artist: “Latent Prism” Sculpture__ | October 2023  
@@ -93,7 +111,7 @@ Data Visualization Lisboa, Virtual / Lisbon, Portugal
 __Artist Talk and Film Screening: Voyager EP__  |  June 2021  
 Burlington City Arts presents ‘Flicks in the Park’, Burlington, Vermont
 
-__Featured Speaker: Storywrangler: A journey in visualizing 100 billion tweets in 100 languages__ | May 2021  
+__Featured Speaker: "Storywrangler: A journey in visualizing 100 billion tweets in 100 languages"__ | May 2021  
 Data Stories @ CEU (Central European University), Virtual / Vienna, Austria
 
 __FailFest Workshop Organizer & Moderator__  |  October 2020  
