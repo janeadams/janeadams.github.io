@@ -7,6 +7,8 @@ has_toc: false
 parent: Home
 ---
 # Volunteer Work
+__Technical Co-Chair__  |  2025 -   
+Journal of Visualization and Interaction ([JoVI](https://www.journalovi.org/))
 
 __Information+ Conference Student Chair__  |  2025  
 Information Plus Conference 2025 (Boston, MA - MIT & Northeastern U.)
