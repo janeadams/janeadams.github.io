@@ -1,3 +1,11 @@
+---
+layout: default
+title: Advice
+nav_order: 10
+has_children: false
+has_toc: false
+parent: Home
+---
 # Advice for Prospective / New PhD Students
 
 ## Pick your advisor, not your school.
