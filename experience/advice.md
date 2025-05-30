@@ -11,6 +11,12 @@ parent: Home
 ## Pick your advisor, not your school.
 If you pick a prestigious school, your advisor might not be a good personality match or may be too overwhelmed with committees and other students, whereas if you pick a good advisor, even if the school is so-so, the advisor might move schools and take you with them, and either way it's more important to have a good advisor than school name recognition. Some schools are also not prestigious overall (like not Ivies or New Ivies) but have killer departments in one area. 
 
+## Make a budget.
+Make a budget. PhD stipends in CS might feel like a lot to an undergrad, but compared to industry and compared to HCOL rents... You'll need a budget. And roommates. Preferably roommates who are also PhD students. Remember to account for taxes, little things like your Spotify subscription and your phone bill, security deposits, renter's insurance, etc etc. Make sure your budget includes meals out with friends, entertainment, and the like -- it's better to have a smaller room than to live on only ramen for 4-6 years.
+
+## Ergonomics matter.
+I'm so sorry to tell you this but all that stuff about wrist rests and the optimal sitting angles are true, and they will matter a little at first and then suddenly they will matter a lot all at once. Check in on your posture and muscles frequently, and remember to stretch and rest your eyes periodically.
+
 ## Never pull an all-nighter.
 If it's not done by your cutoff time (mine is midnight) it's not gonna get any better before morning. You'll end up writing or coding crap that you then have to edit, and you'll be far more mentally and emotionally brittle the next few days.
 
@@ -34,9 +40,6 @@ Know that most programs are still set up to send you to academia, because all yo
 
 ## You will do a lot of "up-managing".
 There is a delicate art to giving homework to people senior than you. You'll get really good at drafting short emails with clear action items and obvious links. Kind of like how artists might blur their vision to get an impression of the key features of a painting, you should review all emails you write to senior academics while walking home from the subway at 11pm, or babysitting 2 small children, or while making coffee at 5am. They are busy, tired people. That doesn’t mean they don’t care, they just need some help prioritizing what to care about first.
-
-## Make a budget.
-Make a budget. PhD stipends in CS might feel like a lot to an undergrad, but compared to industry and compared to HCOL rents... You'll need a budget. And roommates. Preferably roommates who are also PhD students. 
 
 ## Say no.
 You will be asked to do a lot of things for free, to support your career or give back to your community or get a unique learning experience. Don't *always* say no to these things, but know that every time you say "yes" to something, you are inherently saying "no" to something else in the future. Be wary of overcommitting your time; it is better to operate at 80% capacity and have some time to spare for emergencies or sick days, than to operate at 110% capacity and be known as the person who always overpromises and then flakes out.
