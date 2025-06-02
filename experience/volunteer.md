@@ -7,6 +7,9 @@ has_toc: false
 parent: Home
 ---
 # Volunteer Work
+__VISAP 2025 Program Committee__  |  2025  
+Visualization Arts Program at IEEE VIS: Vienna, Austria
+
 __Technical Co-Chair__  |  2025 -   
 Journal of Visualization and Interaction ([JoVI](https://www.journalovi.org/))
 
