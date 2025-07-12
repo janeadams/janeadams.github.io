@@ -9,7 +9,7 @@ parent: Home
 # Employment
 _* denotes teaching experience_
 
-__AI / Machine Learning Fellow__ | June 2025 - Present
+__AI / Machine Learning Fellow__ | June 2025 - Present  
 [Flagship Pioneering](https://www.flagshippioneering.com/join/fellows), Cambridge MA
 
 __Data Science Co-Op__ | January - April 2025  
