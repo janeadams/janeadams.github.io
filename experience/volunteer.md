@@ -7,6 +7,9 @@ has_toc: false
 parent: Home
 ---
 # Volunteer Work
+__VISxAI Workshop Program Committee__ | 2025  
+IEEE VIS Conference 2025, Vienna, Austria
+
 __VISAP 2025 Program Committee__  |  2025  
 Visualization Arts Program at IEEE VIS: Vienna, Austria
 
