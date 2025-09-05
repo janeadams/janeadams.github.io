@@ -12,8 +12,8 @@ Hey, thanks for visiting! I research and engineer software systems for visual an
 
 ## CURRENT POSITIONS
 
-**AI / Machine Learning Fellow** | June 2025 - Present  
-[Flagship Pioneering](https://www.flagshippioneering.com/join/fellows), Cambridge MA
+**Teaching Assistant** | September - December 2025
+Northeastern University College of Computer Sciences, Boston, MA
 
 **PhD Candidate, Computer Science**  | Fall 2021 – Present  
 [Data Visualization Lab](https://vis.khoury.northeastern.edu/) @ Northeastern University, Boston, MA
@@ -21,13 +21,9 @@ Hey, thanks for visiting! I research and engineer software systems for visual an
 **[Graduate Certificate in Bioinformatics](https://catalog.northeastern.edu/graduate/science/biology/bioinformatics-graduate-certificate/)**  | January 2024 – Present  
 Northeastern University College of Science, Boston, MA
 
-## UPCOMING
-**Teaching Assistant** | September - December 2025
-Northeastern University College of Computer Sciences, Boston, MA
-
 ## RESEARCH
 
-I’m presently a PhD Candidate in Computer Science in the [Data Visualization Lab at Northeastern University’s Khoury College](https://vis.khoury.northeastern.edu/), under the advisement of [Dr. Michelle Borkin](https://scholar.google.com/citations?user=m9F7mIgAAAAJ&hl=en), and also completing coursework in the College of Science for a graduate certificate in Bioinformatics. This past year, I joined [Ozette Technologies](https://www.ozette.com/) as a graduate research intern for 8 months, where we developed a multi-agent large language model architecture for applying conversational interfaces to visual analytics dashboards. This spring, I re-joined the Jackson Laboratory for a graduate research co-op in Data Science with a focus on architecting visual informatics software for systems genetics research. I'm excited this summer to be an AI/ML Fellow at [Flagship Pioneering](https://www.flagshippioneering.com/join/fellows), a biotech venture firm in Cambridge MA.
+I’m presently a PhD Candidate in Computer Science in the [Data Visualization Lab at Northeastern University’s Khoury College](https://vis.khoury.northeastern.edu/), under the advisement of [Dr. Michelle Borkin](https://scholar.google.com/citations?user=m9F7mIgAAAAJ&hl=en), and also completing coursework in the College of Science for a graduate certificate in Bioinformatics. This past year, I joined [Ozette Technologies](https://www.ozette.com/) as a graduate research intern for 8 months, where we developed a multi-agent large language model architecture for applying conversational interfaces to visual analytics dashboards. This summer I was an AI/ML Fellow at [Flagship Pioneering](https://www.flagshippioneering.com/join/fellows), a biotech venture firm in Cambridge MA. This fall, I am returning to Northeastern to finish my dissertation and serve as a graduate teaching assistant for CS7250 (Information Visualization Theory and Applications).
 
 My favorite language is Python, and some of my favorite libraries are NetworkX, Plotly, SciKit Learn, and Pandas. I usually work in Python, [D3](https://d3js.org/), TypeScript, Svelte, and full stack web development (MERN, LEAN, etc.). I have experience with HPC (High-performance Computing), slurm/chron (job scheduling), building FastAPI and Flask/uWSGI APIs, nginx configuration, AWS S3/EC2 deployment, React dashboards, Google Cloud Platform (GCP) for scientific computing, BigQuery, Docker, vite, OAuth/MFA, and BitBucket and GitHub CI/CD pipelines. Sometimes I dabble in Java and C++ for art projects, or use R for statistics. Lately I've been really interested in dynamic neural architectures for modeling cellular behavior.
 
