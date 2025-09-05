@@ -17,21 +17,20 @@ I’ve had the great privilege of mentoring a number of undergraduate students o
 
 ## GRANTS & SCHOLARSHIPS
 
+__Northeastern University__
+
+- Khoury College of Computer Sciences Fellowship (2-year, ~$200,000)
+- The Jackson Laboratory Research Grant (1-year, ~$100,000)
+- Agilent Technologies Research Grant (1-year, ~$100,000)
+- Flagship Pioneering AI/ML Fellowship (12 weeks, $27,000)
+- Khoury College of Computer Science PhD Service award: $1,000
+- PhD Network Travel Funds: $500  
+
 __Champlain College__
 
 - Brouillette Scholarship: $5,600  
 - Excellence Scholarship: $60,000  
 - Achievement Scholarship: $14,400  
-
-
-__Northeastern University__
-
-- PhD Network Travel Funds: $500  
-- Khoury College of Computer Sciences Fellowship (2-year, PhD stipend)
-- The Jackson Laboratory Research Grant (1-year, PhD stipend)
-- Agilent Technologies Research Grant (1-year, PhD stipend)  
-- Khoury College of Computer Science PhD Service award: $1,000
-
 
 __Other__
 
