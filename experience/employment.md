@@ -9,7 +9,10 @@ parent: Home
 # Employment
 _* denotes teaching experience_
 
-__AI / Machine Learning Fellow__ | June 2025 - Present  
+__Graduate Teaching Assistant (CS7250)__ | September 2025 - Present  
+Khoury College of Computer Sciences @ Northeastern University, Boston MA
+
+__AI / Machine Learning Fellow__ | June - August 2025  
 [Flagship Pioneering](https://www.flagshippioneering.com/join/fellows), Cambridge MA
 
 __Data Science Co-Op__ | January - April 2025  
