@@ -15,6 +15,7 @@ parent: Home
 - ["fuck", the bash command](https://github.com/nvbn/thefuck)
 - [Why not to use Jupyter Notebooks for everything](https://www.hendrik-erz.de/post/why-i-dont-use-jupyter-notebooks-anymore)
 - [The Coding Train](https://www.youtube.com/thecodingtrain)
+- [Why you should stop using pip or conda and switch to uv](https://blog.kusho.ai/uv-pip-killer-or-yet-another-package-manager/)
 
 ## On Data Visualization
 - [D3 is not a data visualization library](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualization-library-67ba549e8520)
