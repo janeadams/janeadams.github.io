@@ -43,12 +43,3 @@ There is a delicate art to giving homework to people senior than you. You'll get
 
 ## Say no.
 You will be asked to do a lot of things for free, to support your career or give back to your community or get a unique learning experience. Don't *always* say no to these things, but know that every time you say "yes" to something, you are inherently saying "no" to something else in the future. Be wary of overcommitting your time; it is better to operate at 80% capacity and have some time to spare for emergencies or sick days, than to operate at 110% capacity and be known as the person who always overpromises and then flakes out.
-
-# Resources
-
-- [PhD Stipends](https://www.phdstipends.com/results)
-- [PhDs Subreddit](https://www.reddit.com/r/PhD/top/?t=all)
-- [On "Being Glue"](https://www.noidea.dog/glue)
-- [PhD Simulator Game](https://research.wmz.ninja/projects/phd/index.html)
-- [The Illustrated Guide to a PhD](https://matt.might.net/articles/phd-school-in-pictures/)
-- [How to Be Perfectly Unhappy](https://theoatmeal.com/comics/unhappy)
