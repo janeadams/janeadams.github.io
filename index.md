@@ -21,6 +21,11 @@ Northeastern University College of Computer Sciences, Boston, MA
 **[Graduate Certificate in Bioinformatics](https://catalog.northeastern.edu/graduate/science/biology/bioinformatics-graduate-certificate/)**  | January 2024 – Present  
 Northeastern University College of Science, Boston, MA
 
+## UPCOMING POSITION
+
+**Associate**  | May 2026
+Flagship Pioneering, Cambridge MA
+
 ## RESEARCH
 
 I’m presently a PhD Candidate in Computer Science in the [Data Visualization Lab at Northeastern University’s Khoury College](https://vis.khoury.northeastern.edu/), under the advisement of [Dr. Michelle Borkin](https://scholar.google.com/citations?user=m9F7mIgAAAAJ&hl=en), and also completing coursework in the College of Science for a graduate certificate in Bioinformatics. This past year, I joined [Ozette Technologies](https://www.ozette.com/) as a graduate research intern for 8 months, where we developed a multi-agent large language model architecture for applying conversational interfaces to visual analytics dashboards. This summer I was an AI/ML Fellow at [Flagship Pioneering](https://www.flagshippioneering.com/join/fellows), a biotech venture firm in Cambridge MA. This fall, I am returning to Northeastern to finish my dissertation and serve as a graduate teaching assistant for CS7250 (Information Visualization Theory and Applications).
