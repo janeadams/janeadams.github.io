@@ -9,6 +9,9 @@ parent: Home
 # Public Speaking
 _* denotes teaching experience_
 
+__Guest Lecturer: CS7250 - Information Visualization Theory and Applications (Python)__ | 22 Sep. 2025
+Northeastern University, Boston MA
+
 __Presenting First Author (Best Paper Honorable Mention):  
 "Gridded Visualization of Statistical Trees for High-Dimensional Multipartite Data in Systems Genetics"__ | 2 June 2025  
 EuroVis Conference, Luxembourg City LU
