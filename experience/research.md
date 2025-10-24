@@ -8,7 +8,11 @@ parent: Home
 ---
 
 # Research
-__[“Gridded Visualization of Statistical Trees for High-Dimensional Multipartite Data in Systems Genetics”](https://osf.io/9emn5/)__. Jane Lydia Adams, Robyn L. Ball, Jason A. Bubier, Elissa J. Chesler, Melanie Tory, and Michelle A. Borkin. In review, 2025.
+__“Probability-turbulence divergence: A tunable allotaxonometric instrument for comparing heavy-tailed type-probability distributions”__. Peter Sheridan Dodds, Joshua R Minot, Michael V Arnold, Thayer Alshaabi, Jane Lydia Adams, Andrew J Reagan, Christopher M. Danforth. PLOS Complex Systems. Accepted 20 October 2025, in production.
+
+__“Dashboard-as-Tool: A Schema-Driven Architecture for Mixed-Initiative Visual Analytics Dashboards with Large Language Models”__, Jane Adams and Fritz Lekschas. In review at ACM IUI (Intelligent User Interfaces), 10 October 2025.
+
+__[“Gridded Visualization of Statistical Trees for High-Dimensional Multipartite Data in Systems Genetics”](https://doi.org/10.1111/cgf.70113)__. Jane Lydia Adams, Robyn L. Ball, Jason A. Bubier, Elissa J. Chesler, Melanie Tory, and Michelle A. Borkin. Honorable mention for Best Paper at EuroVis 2025; published in Wiley Computer Graphics Forum.
 
 __[“Allotaxonometry and rank-turbulence divergence: A universal instrument for comparing complex systems”](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00400-x)__. Peter Sheridan Dodds, Joshua R Minot, Michael V Arnold, Thayer Alshaabi, Jane Lydia Adams, David Rushing Dewhurst, Tyler J Gray, Morgan R Frank, Andrew J Reagan, Christopher M. Danforth. EPJ Data Science, 19 September 2023. [10.1140/epjds/s13688-023-00400-x](https://doi.org/10.1140/epjds/s13688-023-00400-x).
 
