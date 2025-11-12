@@ -8,6 +8,12 @@ parent: Home
 ---
 # Advice for Prospective / New PhD Students
 
+## Do you have funding to hire PhD students or know anyone who does?
+Sorry, no. I will be very vocal about it if/when I do. See below for more advice on finding an advisor.
+
+## Customize your cold emails
+When you become a professor, you will realize with great horror the sheer volume of boilerplate "I love your research, please fund me" emails that they receive on a near-daily basis. I even receive these as a PhD student, even though I have no funding to share or input on the PhD hiring process. Sending these kinds of emails isn't just unhelpful for your career -- boilerplate emails can be actively detrimental, because they indicate that you see professors and research labs as fungible, when they are anything but. When crafting an email, especially a cold email (or LinkedIn message, etc.) you should spend at least 15 minutes looking up that researcher's work, their recent publications, their website (sometimes there will be explicit instructions right there!), and any grant announcements. For example, all NSF awards are public and [searchable](https://www.nsf.gov/awardsearch/simple-search/). Then, do some thinking: how does your prior research or interests align with their research? What could you bring to the table that is a unique contribution to their research agenda? And only then should you write your email.
+
 ## Pick your advisor, not your school.
 If you pick a prestigious school, your advisor might not be a good personality match or may be too overwhelmed with committees and other students, whereas if you pick a good advisor, even if the school is so-so, the advisor might move schools and take you with them, and either way it's more important to have a good advisor than school name recognition. Some schools are also not prestigious overall (like not Ivies or New Ivies) but have killer departments in one area. 
 
