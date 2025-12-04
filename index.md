@@ -8,15 +8,15 @@ has_toc: false
 
 # Jane Adams
 
-Hey, thanks for visiting! I research and engineer software systems for visual analytics of high-dimensional data in life sciences. I'm planning to graduate from my PhD in Computer Science program in May of 2026, when I will continue my career in industry research. I am a dual citizen of the US and EU.
+Hey, thanks for visiting! I research and engineer software systems for visual analytics of high-dimensional data in life sciences. I'm planning to graduate from my PhD in Computer Science program in May of 2026, when I will join biotech VC firm Flagship Pioneering as an Associate.
 
 ## CURRENT POSITIONS
 
-**Teaching Assistant** | September - December 2025
+**Teaching Assistant** | September - December 2025  
 Northeastern University College of Computer Sciences, Boston, MA
 
 **PhD Candidate, Computer Science**  | Fall 2021 – Present  
-[Data Visualization Lab](https://vis.khoury.northeastern.edu/) @ Northeastern University, Boston, MA
+Data Visualization Lab](https://vis.khoury.northeastern.edu/) @ Northeastern University, Boston, MA
 
 **[Graduate Certificate in Bioinformatics](https://catalog.northeastern.edu/graduate/science/biology/bioinformatics-graduate-certificate/)**  | January 2024 – Present  
 Northeastern University College of Science, Boston, MA
@@ -24,7 +24,7 @@ Northeastern University College of Science, Boston, MA
 ## UPCOMING POSITION
 
 **Associate**  | May 2026  
-Flagship Pioneering, Cambridge MA
+[Flagship Pioneering](https://www.flagshippioneering.com/), Cambridge MA
 
 ## RESEARCH
 
@@ -37,5 +37,5 @@ This summer I received an honorable mention at the EuroVis conference in Luxembo
 You can find me on Mastodon at [janeadams@datavis.social](https://datavis.social/@janeadams).
 
 ## IRL
-In my personal time, I enjoy curating and making art. I love rock climbing, taking care of plants, and hiking. I love my partner very much and we're excited to be getting married soon! My favorite video games are Minecraft, Civilization VI, Cities Skylines, and Anno 1800. I am very slowly researching and writing a book about realism techniques in paintings c.1700-1900, and exploring the use of L systems for data art. I'm an administrator of datavis.social, a Mastodon instance in the fediverse. I'm currently serving as technical co-chair for the diamond Open Access visualization journal [JoVI](https://www.journalovi.org/). I'm a proud member of GENU-UAW graduate workers' union.
+In my personal time, I enjoy curating and making art. I love rock climbing, taking care of plants, and hiking. I love my partner very much and we're excited to be getting married soon! My favorite video games are Minecraft, Civilization VI, Cities Skylines, and Anno 1800. I am very slowly researching and writing a book about realism techniques in paintings c.1700-1900, and exploring the use of L systems for data art. I'm an administrator of datavis.social, a Mastodon instance in the fediverse. I'm a proud member of GENU-UAW graduate workers' union.
 
