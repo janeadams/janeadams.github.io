@@ -13,7 +13,7 @@ IEEE VIS Conference 2025, Vienna, Austria
 __VISAP 2025 Program Committee__  |  2025  
 Visualization Arts Program at IEEE VIS: Vienna, Austria
 
-__Technical Co-Chair__  |  2025 -   
+__Technical Co-Chair__  |  June - December 2025
 Journal of Visualization and Interaction ([JoVI](https://www.journalovi.org/))
 
 __Information+ Conference Student Chair__  |  2025  
