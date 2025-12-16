@@ -12,11 +12,11 @@ Hey, thanks for visiting! I research and engineer software systems for visual an
 
 ## CURRENT POSITIONS
 
-**Teaching Assistant** | September - December 2025  
+**Teaching Assistant: CS7250** | September - December 2025  
 Northeastern University College of Computer Sciences, Boston, MA
 
 **PhD Candidate, Computer Science**  | Fall 2021 – Present  
-Data Visualization Lab](https://vis.khoury.northeastern.edu/) @ Northeastern University, Boston, MA
+[Data Visualization Lab](https://vis.khoury.northeastern.edu/) @ Northeastern University, Boston, MA
 
 **[Graduate Certificate in Bioinformatics](https://catalog.northeastern.edu/graduate/science/biology/bioinformatics-graduate-certificate/)**  | January 2024 – Present  
 Northeastern University College of Science, Boston, MA
