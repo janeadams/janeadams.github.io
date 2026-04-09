@@ -9,10 +9,10 @@ parent: Home
 # Employment
 _* denotes teaching experience_
 
-__Graduate Teaching Assistant (DS2500)__ | January - April 2026
+__Graduate Teaching Assistant (DS2500)__ | January - April 2026   
 Khoury College of Computer Sciences @ Northeastern University, Boston MA
 
-__Graduate Teaching Assistant (CS7250)__ | September - December 2025
+__Graduate Teaching Assistant (CS7250)__ | September - December 2026   
 Khoury College of Computer Sciences @ Northeastern University, Boston MA
 
 __AI / Machine Learning Fellow__ | June - August 2025  
