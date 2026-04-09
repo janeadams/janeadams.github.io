@@ -9,7 +9,10 @@ parent: Home
 # Employment
 _* denotes teaching experience_
 
-__Graduate Teaching Assistant (CS7250)__ | September 2025 - Present  
+__Graduate Teaching Assistant (DS2500)__ | January - April 2026
+Khoury College of Computer Sciences @ Northeastern University, Boston MA
+
+__Graduate Teaching Assistant (CS7250)__ | September - December 2025
 Khoury College of Computer Sciences @ Northeastern University, Boston MA
 
 __AI / Machine Learning Fellow__ | June - August 2025  
@@ -36,7 +39,7 @@ __PhD Intern__ | May – August 2023
 __[NSF CAREER](https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career) Design Consultant__ | May – July 2023  
 Khoury College of Computer Sciences @ Northeastern University, Boston MA
 
-__Graduate Researcher__ | September 2021 – Present  
+__Graduate Researcher__ | September 2021 – April 2026
 [Northeastern University: Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/), Boston, Massachusetts
 
 __Visiting Student__ | June 2022 – May 2023  
