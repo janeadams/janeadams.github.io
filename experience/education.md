@@ -8,11 +8,11 @@ parent: Home
 ---
 # Education
 
-[**Graduate Certificate in Bioinformatics**](https://catalog.northeastern.edu/graduate/science/biology/bioinformatics-graduate-certificate/)  | January 2024 – December 2025  
-Northeastern University College of Science, Boston, MA
-
 [**Doctorate of Philosophy (Ph.D.), Computer Science**](https://www.khoury.northeastern.edu/programs/computer-science-phd/)  | September 2021 - April 2026  
 [Data Visualization Lab](https://vis.khoury.northeastern.edu/) @ Northeastern University, Boston, MA
+
+[**Graduate Certificate in Bioinformatics**](https://catalog.northeastern.edu/graduate/science/biology/bioinformatics-graduate-certificate/)  | January 2024 – December 2025  
+Northeastern University College of Science, Boston, MA
 
 [**Master of Science (M.S), Computer Science**](https://graduate.northeastern.edu/program/master-of-science-in-computer-science-boston-5238/)  | Fall 2021 – Spring 2023  
 Khoury College of Computer Sciences, Northeastern University, Boston, MA
