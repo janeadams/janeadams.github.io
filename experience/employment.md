@@ -7,7 +7,9 @@ has_toc: false
 parent: Home
 ---
 # Employment
-_* denotes teaching experience_
+
+__Associate__ | May 2026 - Present  
+[Flagship Pioneering](https://www.flagshippioneering.com/join/fellows), Cambridge MA
 
 __Graduate Teaching Assistant (DS2500)__ | January - April 2026   
 Khoury College of Computer Sciences @ Northeastern University, Boston MA
@@ -45,25 +47,25 @@ __Graduate Researcher__ | September 2021 – April 2026
 __Visiting Student__ | June 2022 – May 2023  
 [The Jackson Laboratory (JAX)](https://en.wikipedia.org/wiki/Jackson_Laboratory), Bar Harbor, Maine / Remote
 
-__* Project Lead: Creativity + AI Research and Development Team__ | July – August 2022  
+__Project Lead: Creativity + AI Research and Development Team__ | July – August 2022  
 [Champlain College Emergent Media Center](https://www.champlain.edu/centers-of-experience/emergent-media-center), Burlington, Vermont / Remote
 
-__* Doctoral Fellow: Immersive Analytics and Exploratory Data Visualization__ | May – August 2022  
+__Doctoral Fellow: Immersive Analytics and Exploratory Data Visualization__ | May – August 2022  
 [Champlain College Emergent Media Center](https://www.champlain.edu/centers-of-experience/emergent-media-center), Burlington, Vermont / Remote
 
 __Consultant: Data Visualization Software Engineering__ | July 2021 – June 2022  
 [The University of Vermont Complex Systems Center](https://vermontcomplexsystems.org/education/phd/), operating out of Cambridge, Massachusetts
 
-__* Data Visualization Artist-in-Residence / Research Analyst__  |  March 2018 – June 2021  
+__Data Visualization Artist-in-Residence / Research Analyst__  |  March 2018 – June 2021  
 [The University of Vermont Complex Systems Center](https://vermontcomplexsystems.org/education/phd/), Burlington, Vermont
 
-__* Graduate Curatorial Fellow__  |  September 2017 – March 2018  
+__Graduate Curatorial Fellow__  |  September 2017 – March 2018  
 [Champlain College Art Gallery](https://artgallery.champlain.edu/), Burlington, Vermont
 
-__* Project Management Graduate Fellow__  |  January – August 2017  
+__Project Management Graduate Fellow__  |  January – August 2017  
 [Champlain College Emergent Media Center](https://www.champlain.edu/centers-of-experience/emergent-media-center) Communications Team, Burlington, Vermont
 
-__* Teaching Assistant__  |  July – August 2016, January – May 2017  
+__Teaching Assistant__  |  July – August 2016, January – May 2017  
 [Champlain College](https://www.champlain.edu/), Burlington, Vermont
 
 __Front End Development Intern__  |  August 2016 – January 2017  
