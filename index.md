@@ -8,9 +8,9 @@ has_toc: false
 
 # Jane Adams
 
-Hey, thanks for visiting! I research and engineer software systems for visual analytics of high-dimensional data in life sciences. I defended my dissertation in February of 2026 and earned my PhD in Computer Science from Northeastern. I've joined biotech VC firm Flagship Pioneering as an Associate this May, where I coordinate scientific origination, due diligence, hypothesis testing, and corporate strategy for radical venture creation in the biotech space.
+Hey, thanks for visiting! I research and engineer software systems for visual analytics of high-dimensional data in life sciences. I defended my dissertation in February of 2026 and earned my PhD in Computer Science from Northeastern. Over the summer I joined biotech VC firm Flagship Pioneering as an Associate, where I coordinated scientific origination, due diligence, hypothesis testing, and corporate strategy for radical venture creation in the biotech space. This fall I'm excited to join Harvard Med as an ML engineer building research tooling for advanced biomedical sciences.
 
-## CURRENT POSITION
+## UPCOMING POSITION
 
-**Associate**  | May 2026 - Present
-[Flagship Pioneering](https://www.flagshippioneering.com/), Cambridge MA
+**Machine Learning Engineer**  | September 2026
+Harvard Medical School Core for Computational Biomedicine, Boston MA
