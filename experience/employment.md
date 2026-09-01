@@ -8,8 +8,11 @@ parent: Home
 ---
 # Employment
 
-__Associate__ | May 2026 - Present  
-[Flagship Pioneering](https://www.flagshippioneering.com/join/fellows), Cambridge MA
+__Machine Learning Engineer__ | September 2026 - Present  
+[Harvard Medical School](https://dbmi.hms.harvard.edu/about-dbmi/core-computational-biomedicine), Cambridge MA
+
+__Associate__ | May - August 2026  
+[Flagship Pioneering](https://www.flagshippioneering.com/), Cambridge MA
 
 __Graduate Teaching Assistant (DS2500)__ | January - April 2026   
 Khoury College of Computer Sciences @ Northeastern University, Boston MA
