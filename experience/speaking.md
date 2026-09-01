@@ -9,7 +9,7 @@ parent: Home
 # Public Speaking
 _* denotes teaching experience_
 
-__Guest Lecturer: CS7250 - Information Visualization Theory and Applications (Python)__ | 22 Sep. 2025
+__Guest Lecturer: CS7250 - Information Visualization Theory and Applications (Python)__ | 22 Sep. 2025  
 Northeastern University, Boston MA
 
 __Presenting First Author (Best Paper Honorable Mention):  
