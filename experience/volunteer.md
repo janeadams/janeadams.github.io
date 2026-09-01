@@ -7,6 +7,12 @@ has_toc: false
 parent: Home
 ---
 # Volunteer Work
+__VISxAI Workshop Program Committee__ | 2026  
+IEEE VIS Conference 2026, Boston, MA, USA
+
+__VISAP 2026 Program Committee__  |  2026  
+Visualization Arts Program at IEEE VIS: Boston, MA, USA
+
 __VISxAI Workshop Program Committee__ | 2025  
 IEEE VIS Conference 2025, Vienna, Austria
 
